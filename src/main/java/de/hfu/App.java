@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author akjau
- *	Class that includes the main for TextScanner
+ *	Class that includes the main
  */
 public class App 
 {
